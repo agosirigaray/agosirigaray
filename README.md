@@ -6,3 +6,6 @@ Write something about me
 ## Contact me
 Write something to contact me
 
+## Hobbies
+- Dancing
+- Singing 
