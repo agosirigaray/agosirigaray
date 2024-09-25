@@ -6,3 +6,5 @@ Write something about me
 ## Contact me
 Write something to contact me
 
+## Languages
+Spanish, English
