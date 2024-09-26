@@ -12,4 +12,14 @@ Write something to contact me
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
 ## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...# Hello! I'm Agos! 
+
+## about me
+Write something about me
+
+## Contact me
+Write something to contact me
+
+## Hobbies
+- Dancing
+- Singing 
